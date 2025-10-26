@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+/Altium/History
+/Altium/__Previews
+/Altium/Project Logs for Altium
